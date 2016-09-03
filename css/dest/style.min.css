@@ -1,0 +1,30 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+body, html {
+    height: 100%;
+    width: 100%;
+    background: #f1f1f1;
+}
+#central_line {
+    width: 80%;
+    height: 60%;
+    margin: 0 auto;
+    background: #e8e8e8;
+    text-align: center;
+}
+#first_line {
+    width: 80%;
+    height: 20%;
+    margin: 0 auto;
+    background: #a1a1a1;
+    text-align: center;
+}
+#last_line {
+    width: 80%;
+    height: 20%;
+    margin: 0 auto;
+    background: #a1a1a1;
+    text-align: center;
+}
